@@ -9,7 +9,7 @@
 
 
 <details markdown="1">
-  <summary><span style="font-size: 20px;">자바에서 Static 키워드와 전역 변수의 차이는?</span></summary>
+  <summary><span style="font-size: 20px;">###자바에서 Static 키워드와 전역 변수의 차이는?</span></summary>
   <div>
     <ul>
       <li>박지현 : </li>
