@@ -3,5 +3,4 @@
 
 
 ## 운영체제
-- [운영체제의 개요] (https://cse-gr.tistory.com/95)
-- [메모리의 구조] (https://cse-gr.tistory.com/130)
+- [운영체제](https://github.com/KNU-CS-STUDY-PPL/CS/tree/main/OS)
