@@ -5,19 +5,15 @@
 - 자바에서 Static 키워드와 전역 변수의 차이는?
 
 
-### 자바에서 Static 키워드와 전역 변수의 차이는?
 
 
-<details markdown="1">
-  <summary><span style="font-size: 20px;">###자바에서 Static 키워드와 전역 변수의 차이는?</span></summary>
-  <div>
-    <ul>
-      <li>박지현 : </li>
-      <li>이민혁 : </li>
-      <li>박규리 : </li>
-    </ul>
-  </div>
+<details>
+  <summary>자바에서 Static 키워드와 전역 변수의 차이는?</summary>
+  <ul>
+    <li>박지현 : </li>
+    <li>이민혁 : </li>
+    <li>박규리 : </li>
+  </ul>
 </details>
-
 
 
