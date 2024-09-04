@@ -7,7 +7,7 @@
 | ---- | ---------------------------------------------- |
 | 규리 | [@parkgyul](https://github.com/parkgyul) |
 | 지현 | [@parkjihyeon124594](https://github.com/parkjihyeon124594) |
-| 민혁 | [@helloaway213](https://github.com/helloaway213)|
+| 민혁 | [@MinsFuture](https://github.com/MinsFuture)|
 
 
 ## 운영체제
