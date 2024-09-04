@@ -12,8 +12,20 @@
   <summary>자바에서 Static 키워드와 전역 변수의 차이는?</summary>
   <div>
     <ul>
-      <li>1</li>
-      <li>2</li>
+      <li>Static 변수는 클래스에 속하며, 모든 인스턴스가 공유합니다.</li>
+      <li>전역 변수는 자바에는 존재하지 않으며, static 변수를 통해 유사한 동작을 구현할 수 있습니다.</li>
     </ul>
   </div>
 </details>
+
+
+<details markdown="1">
+  <summary>자바에서 Static 키워드와 전역 변수의 차이는?</summary>
+  <div>
+    <ul>
+      <li>Static 변수는 클래스에 속하며, 모든 인스턴스가 공유합니다.</li>
+      <li>전역 변수는 자바에는 존재하지 않으며, static 변수를 통해 유사한 동작을 구현할 수 있습니다.</li>
+    </ul>
+  </div>
+</details>
+
