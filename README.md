@@ -6,8 +6,8 @@
 | 이름   | GitHub                                         |
 | ---- | ---------------------------------------------- |
 | 규리 | [@parkgyul](https://github.com/parkgyul) |
-| 상우 | [@parkjihyeon124594](https://github.com/parkjihyeon124594) |
-| 지혁 | [@helloaway213](https://github.com/helloaway213)|
+| 지현 | [@parkjihyeon124594](https://github.com/parkjihyeon124594) |
+| 민혁 | [@helloaway213](https://github.com/helloaway213)|
 
 
 ## 운영체제
