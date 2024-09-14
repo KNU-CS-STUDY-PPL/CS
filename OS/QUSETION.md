@@ -1,6 +1,8 @@
 
 <details>
 <summary>자바에서 객체를 생성하면 메모리 어느 부분에 할당되는지?</summary>
+  Ans) heap 영역
+  https://cse-gr.tistory.com/132
 </details>
 
 
@@ -85,6 +87,10 @@ Car c1 = new Car();
 
 <details>
 <summary>컴파일과 런타임, 프로그램 실행의 차이?</summary>
+  Ans) heap 영역
+  컴파일(compile)은 개발자가 프로그램을 위해 작성한 소스 코드를 다른 프로그램 또는 기계(Hardware)가 처리하기 용이한 형태로 바꾸는 과정을 의미한다. 
+  런타임(Runtime)은 컴파일(compile) 과정을 마친 응용 프로그램이 사용자에 의해 실행되어 지는 때 즉, exe파일을 동작시키는(실행 버튼을 누를때) 과정
+  https://cse-gr.tistory.com/133
 </details>
 
   
